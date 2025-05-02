@@ -1,0 +1,7 @@
+bad/
+venv/
+tmp/
+temp_chunks/
+ideas/
+data/rusid
+**/__pycache__/
